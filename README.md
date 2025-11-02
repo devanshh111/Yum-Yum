@@ -232,10 +232,11 @@ This project is licensed under the **ISC License** - see the [LICENSE](LICENSE) 
 
 ### ⭐ **Star this repo if you found it helpful!**
 
-**Made with ❤️ by [Gourav Chaudhary](https://github.com/GouravSittam)**
+**Made with ❤️ by [Devansh Baliyan](https://github.com/GouravSittam)**
 
 *YumYum - Where Every Click Leads to Deliciousness* 🍽️
 
 </div>
 "# Yum-Yum" 
 "# Yum-Yum" 
+
